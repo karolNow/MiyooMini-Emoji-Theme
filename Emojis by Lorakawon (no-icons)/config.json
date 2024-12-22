@@ -1,0 +1,47 @@
+{
+    "name": "Emojis",
+    "batteryPercentage": {
+        "visible": true,
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 16,
+        "color": "#ffffff",
+        "textAlign": "center",
+        "fixed": true,
+        "offsetX": 10,
+        "offsetY": 0
+    },
+    "author": "Lorakawon",
+    "description": "Theme based on emojis",
+    "title": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 36,
+        "color": "#FFFFFF"
+    },
+    "hint": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#FFFFFF"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#FFFFFF",
+        "selectedcolor": "#FFFFFF"
+    },
+    "list": {
+        "font": "SpaceGrotesk-Bold.ttf",
+        "size": 24,
+        "color": "#ffffff"
+    }   ,
+    "hideLabels": {
+        "icons": true,
+        "hints": false
+    }
+}
