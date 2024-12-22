@@ -1,4 +1,4 @@
-# Miyoo Mini Emoji Theme
+# MM OnionOS – Emoji Theme
 
 Welcome to the **Miyoo Mini Emoji Theme** repository! This theme adds a fun, vibrant emoji motif to your Miyoo Mini gaming console, enhancing your user experience with playful and expressive icons.
 
